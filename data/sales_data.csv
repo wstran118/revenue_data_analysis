@@ -1,0 +1,9 @@
+date,product,category,price,quantity,customer_id,region
+2023-01-01,Widget A,Electronics,29.99,5,101,North
+2023-01-02,Widget B,Clothing,19.99,3,102,South
+2023-01-03,Widget C,Books,,2,103,East
+2023-01-04,Widget A,Electronics,29.99,4,101,North
+2023-02-01,Widget B,Clothing,19.99,6,104,West
+2023-02-02,Widget D,Books,9.99,3,105,South
+2023-03-01,Widget A,Electronics,29.99,7,102,South
+2023-03-02,Widget C,Books,9.99,5,106,North
